@@ -1,6 +1,8 @@
 # Piyush Gambhir
 
-Software engineer building production AI systems, browser automation, and full-stack platforms. Currently at [Spyne](https://www.spyne.ai).
+Software engineer building production AI systems and full-stack platforms.
+
+Currently at [Spyne](https://www.spyne.ai), where I build conversational AI agents for automotive retail — voice and chat agents that qualify leads, book test drives, and run dealer workflows end to end. Outside of that I work on agentic AI applications, pushing what an autonomous harness can do across browser automation, scraping, and developer tooling.
 
 More at [piyushgambhir.com](https://www.piyushgambhir.com) — writing, projects, research.
 
