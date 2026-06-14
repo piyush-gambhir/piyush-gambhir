@@ -4,7 +4,7 @@ Software engineer building production AI systems, developer infrastructure, and 
 
 I work at [Spyne](https://www.spyne.ai), building conversational voice and chat agents for automotive retail. My independent work focuses on practical developer tools: infrastructure CLIs, self-hosted services, browser automation, search systems, and production-ready application templates.
 
-[Website](https://www.piyushgambhir.com) · [Projects](https://projects.piyushgambhir.com) · [LinkedIn](https://www.linkedin.com/in/gambhirpiyush/) · [Email](mailto:hello@piyushgambhir.com)
+[Website](https://www.piyushgambhir.com) · [LinkedIn](https://www.linkedin.com/in/gambhirpiyush/) · [Email](mailto:hello@piyushgambhir.com)
 
 ## Featured projects
 
@@ -30,7 +30,6 @@ I build small, composable tools for operating developer platforms from the termi
 - [jira-cli](https://github.com/piyush-gambhir/jira-cli) — Jira Cloud and Data Center CLI for issues, JQL, transitions, boards, and sprints.
 - [nginxpm-cli](https://github.com/piyush-gambhir/nginxpm-cli) — manage Nginx Proxy Manager hosts, certificates, streams, users, and settings.
 - [shell-scripts](https://github.com/piyush-gambhir/shell-scripts) — scripts for bootstrapping Linux development environments.
-- [projects.piyushgambhir.com](https://github.com/piyush-gambhir/projects.piyushgambhir.com) — Cloudflare Worker routing the projects hub to individual deployments.
 
 ## Applications and services
 
@@ -72,17 +71,6 @@ I build small, composable tools for operating developer platforms from the termi
 - [google-competitive-programming-contests](https://github.com/piyush-gambhir/google-competitive-programming-contests)
 - [dsa-practice](https://github.com/piyush-gambhir/dsa-practice)
 - [ncu-hacks-1.0](https://github.com/piyush-gambhir/ncu-hacks-1.0)
-
-</details>
-
-<details>
-<summary><strong>Learning and university archive</strong></summary>
-
-<br>
-
-- [java-practice](https://github.com/piyush-gambhir/java-practice) — Java fundamentals and pattern exercises.
-- [java-projects](https://github.com/piyush-gambhir/java-projects) — Java applications using Swing and JDBC.
-- [ncu-lab-manual-and-end-semester-projects](https://github.com/piyush-gambhir/ncu-lab-manual-and-end-semester-projects) — computer science lab work and semester projects.
 
 </details>
 
