@@ -10,19 +10,13 @@ I work at [Spyne](https://www.spyne.ai), building conversational voice and chat 
 
 | Project | What it does | Stack / focus |
 | --- | --- | --- |
-| [infra-lab](https://github.com/piyush-gambhir/infra-lab) | Ready-to-run Docker Compose environments for databases, queues, search, observability, and vector stores | Docker, infrastructure |
-| [safeshare](https://github.com/piyush-gambhir/safeshare) | End-to-end encrypted peer-to-peer file transfer over WebRTC, with web and desktop clients | Next.js, Electron, Go, WebRTC |
 | [typesense-dashboard](https://github.com/piyush-gambhir/typesense-dashboard) | Web dashboard for managing and monitoring Typesense search infrastructure | TypeScript, Next.js, Typesense |
-| [google-reviews-scraping](https://github.com/piyush-gambhir/google-reviews-scraping) | Free, resumable Google Maps reviews scraper with CSV, JSON, and NDJSON output | Python, Playwright, SQLite |
-| [quiz-it-now](https://github.com/piyush-gambhir/quiz-it-now) | AI-powered quiz generation from text, webpages, and PDF documents | TypeScript, AI, document processing |
-| [nextjs-template](https://github.com/piyush-gambhir/nextjs-template) | Production-ready Next.js starter with tests, linting, typed environment variables, Docker, and CI/CD | Next.js, TypeScript, Vitest |
-| [markdown-to-pdf](https://github.com/piyush-gambhir/markdown-to-pdf) | Standalone Markdown-to-PDF service with GitHub, academic, and RCA templates | TypeScript, Chromium, Docker |
-| [movie-ticket-booking-webapp](https://github.com/piyush-gambhir/movie-ticket-booking-webapp) | Full-stack movie booking product built for the StarHack hackathon | Next.js, PostgreSQL, Drizzle, Typesense |
 
 ## Infrastructure and CLIs
 
 I build small, composable tools for operating developer platforms from the terminal.
 
+- [infra-lab](https://github.com/piyush-gambhir/infra-lab) — ready-to-run Docker Compose environments for databases, queues, search, observability, and vector stores.
 - [cubeapm-cli](https://github.com/piyush-gambhir/cubeapm-cli) — query traces, metrics, and logs from CubeAPM.
 - [es-cli](https://github.com/piyush-gambhir/es-cli) — manage Elasticsearch clusters, indices, and documents.
 - [grafana-cli](https://github.com/piyush-gambhir/grafana-cli) — manage Grafana dashboards, data sources, and alerts.
@@ -33,6 +27,11 @@ I build small, composable tools for operating developer platforms from the termi
 
 ## Applications and services
 
+- [safeshare](https://github.com/piyush-gambhir/safeshare) — end-to-end encrypted peer-to-peer file transfer over WebRTC, with web and desktop clients.
+- [google-reviews-scraping](https://github.com/piyush-gambhir/google-reviews-scraping) — resumable Google Maps reviews scraper with CSV, JSON, and NDJSON output.
+- [quiz-it-now](https://github.com/piyush-gambhir/quiz-it-now) — AI-powered quiz generation from text, webpages, and PDF documents.
+- [markdown-to-pdf](https://github.com/piyush-gambhir/markdown-to-pdf) — standalone Markdown-to-PDF service with GitHub, academic, and RCA templates.
+- [movie-ticket-booking-webapp](https://github.com/piyush-gambhir/movie-ticket-booking-webapp) — full-stack movie booking product built for the StarHack hackathon.
 - [telephony-backend](https://github.com/piyush-gambhir/telephony-backend) — provider-agnostic SMS, voice, verification, lookup, and number-management API.
 - [movie-ticket-booking-typesense](https://github.com/piyush-gambhir/movie-ticket-booking-typesense) — TMDB-to-Typesense ETL and search infrastructure for the movie booking app.
 - [html-to-pdf](https://github.com/piyush-gambhir/html-to-pdf) — Dockerized HTML-to-PDF microservice powered by headless Chromium.
@@ -42,6 +41,7 @@ I build small, composable tools for operating developer platforms from the termi
 
 ## Starters and templates
 
+- [nextjs-template](https://github.com/piyush-gambhir/nextjs-template) — production-ready Next.js starter with tests, linting, typed environment variables, Docker, and CI/CD.
 - [fastapi-boilerplate](https://github.com/piyush-gambhir/fastapi-boilerplate) — FastAPI starter with Poetry, Docker Compose, structured routing, and optional LLM helpers.
 - [wxt-web-extension-react-ts-boilerplate](https://github.com/piyush-gambhir/wxt-web-extension-react-ts-boilerplate) — WXT, React, TypeScript, and Tailwind starter for browser extensions.
 
