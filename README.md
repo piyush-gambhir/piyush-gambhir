@@ -1,83 +1,29 @@
 # Piyush Gambhir
 
-Software engineer building production AI systems, developer infrastructure, and full-stack products.
+Software engineer building production AI systems and developer infrastructure.
+At [Spyne](https://www.spyne.ai), I work on conversational voice and chat agents
+for automotive retail. Outside work, I build open-source tools for operating and
+understanding production systems.
 
-I work at [Spyne](https://www.spyne.ai), building conversational voice and chat agents for automotive retail. My independent work focuses on practical developer tools: infrastructure CLIs, self-hosted services, browser automation, search systems, and production-ready application templates.
+[Website](https://piyushgambhir.com) · [LinkedIn](https://www.linkedin.com/in/gambhirpiyush/) · [Email](mailto:hello@piyushgambhir.com)
 
-[Website](https://www.piyushgambhir.com) · [LinkedIn](https://www.linkedin.com/in/gambhirpiyush/) · [Email](mailto:hello@piyushgambhir.com)
+## Selected work
 
-## Featured projects
+| Project | Focus |
+| --- | --- |
+| [reckon](https://projects.piyushgambhir.com/reckon) | Read-only RCA workspace that helps coding agents investigate production across observability, CI/CD, cloud, queues, Kubernetes, caches, and databases. |
+| [infra-lab](https://github.com/piyush-gambhir/infra-lab) | Ready-to-run Docker Compose environments for databases, queues, search, observability, and vector stores. |
+| [typesense-dashboard](https://github.com/piyush-gambhir/typesense-dashboard) | Web dashboard for managing and monitoring Typesense infrastructure. |
+| [safeshare](https://github.com/piyush-gambhir/safeshare) | End-to-end encrypted peer-to-peer file transfer over WebRTC. |
 
-| Project | What it does | Stack / focus |
-| --- | --- | --- |
-| [typesense-dashboard](https://github.com/piyush-gambhir/typesense-dashboard) | Web dashboard for managing and monitoring Typesense search infrastructure | TypeScript, Next.js, Typesense |
+## Operations CLI suite
 
-## Infrastructure and CLIs
+[Jira](https://projects.piyushgambhir.com/jira-cli) ·
+[Grafana](https://projects.piyushgambhir.com/grafana-cli) ·
+[Nginx Proxy Manager](https://projects.piyushgambhir.com/nginxpm-cli) ·
+[Jenkins](https://projects.piyushgambhir.com/jenkins-cli) ·
+[Elasticsearch](https://projects.piyushgambhir.com/es-cli) ·
+[CubeAPM](https://projects.piyushgambhir.com/cubeapm-cli)
 
-I build small, composable tools for operating developer platforms from the terminal.
-
-- [infra-lab](https://github.com/piyush-gambhir/infra-lab) — ready-to-run Docker Compose environments for databases, queues, search, observability, and vector stores.
-- [cubeapm-cli](https://github.com/piyush-gambhir/cubeapm-cli) — query traces, metrics, and logs from CubeAPM.
-- [es-cli](https://github.com/piyush-gambhir/es-cli) — manage Elasticsearch clusters, indices, and documents.
-- [grafana-cli](https://github.com/piyush-gambhir/grafana-cli) — manage Grafana dashboards, data sources, and alerts.
-- [jenkins-cli](https://github.com/piyush-gambhir/jenkins-cli) — manage Jenkins jobs, builds, nodes, and plugins.
-- [jira-cli](https://github.com/piyush-gambhir/jira-cli) — Jira Cloud and Data Center CLI for issues, JQL, transitions, boards, and sprints.
-- [nginxpm-cli](https://github.com/piyush-gambhir/nginxpm-cli) — manage Nginx Proxy Manager hosts, certificates, streams, users, and settings.
-- [shell-scripts](https://github.com/piyush-gambhir/shell-scripts) — scripts for bootstrapping Linux development environments.
-
-## Applications and services
-
-- [safeshare](https://github.com/piyush-gambhir/safeshare) — end-to-end encrypted peer-to-peer file transfer over WebRTC, with web and desktop clients.
-- [google-reviews-scraping](https://github.com/piyush-gambhir/google-reviews-scraping) — resumable Google Maps reviews scraper with CSV, JSON, and NDJSON output.
-- [quiz-it-now](https://github.com/piyush-gambhir/quiz-it-now) — AI-powered quiz generation from text, webpages, and PDF documents.
-- [markdown-to-pdf](https://github.com/piyush-gambhir/markdown-to-pdf) — standalone Markdown-to-PDF service with GitHub, academic, and RCA templates.
-- [movie-ticket-booking-webapp](https://github.com/piyush-gambhir/movie-ticket-booking-webapp) — full-stack movie booking product built for the StarHack hackathon.
-- [telephony-backend](https://github.com/piyush-gambhir/telephony-backend) — provider-agnostic SMS, voice, verification, lookup, and number-management API.
-- [movie-ticket-booking-typesense](https://github.com/piyush-gambhir/movie-ticket-booking-typesense) — TMDB-to-Typesense ETL and search infrastructure for the movie booking app.
-- [html-to-pdf](https://github.com/piyush-gambhir/html-to-pdf) — Dockerized HTML-to-PDF microservice powered by headless Chromium.
-- [fill-data-figma-plugin](https://github.com/piyush-gambhir/fill-data-figma-plugin) — fills Figma text and image layers from vehicle inventory in Google Sheets.
-- [vin-highligter-browser-extension](https://github.com/piyush-gambhir/vin-highligter-browser-extension) — detects VINs on webpages and links them to a vehicle console.
-- [valentine-meme-web](https://github.com/piyush-gambhir/valentine-meme-web) — interactive Next.js experiment with 27 progressively changing UI states.
-
-## Starters and templates
-
-- [nextjs-template](https://github.com/piyush-gambhir/nextjs-template) — production-ready Next.js starter with tests, linting, typed environment variables, Docker, and CI/CD.
-- [fastapi-boilerplate](https://github.com/piyush-gambhir/fastapi-boilerplate) — FastAPI starter with Poetry, Docker Compose, structured routing, and optional LLM helpers.
-- [wxt-web-extension-react-ts-boilerplate](https://github.com/piyush-gambhir/wxt-web-extension-react-ts-boilerplate) — WXT, React, TypeScript, and Tailwind starter for browser extensions.
-
-<details>
-<summary><strong>AI, machine learning, and data projects</strong></summary>
-
-<br>
-
-- [deep-learning-projects](https://github.com/piyush-gambhir/deep-learning-projects) — computer vision, NLP, sentiment analysis, and predictive modeling projects.
-- [machine-learning](https://github.com/piyush-gambhir/machine-learning) — predictive modeling, computer vision, and NLP experiments.
-- [kaggle-competitions](https://github.com/piyush-gambhir/kaggle-competitions) — notebooks and solutions for Kaggle competitions.
-- [leaked-llms-system-prompts](https://github.com/piyush-gambhir/leaked-llms-system-prompts) — research archive of published and extracted AI system prompts and tool definitions.
-
-</details>
-
-<details>
-<summary><strong>Algorithms and competitive programming</strong></summary>
-
-<br>
-
-- [leetcode-contests-and-problem-solutions](https://github.com/piyush-gambhir/leetcode-contests-and-problem-solutions)
-- [codeforces-contests-and-problem-solutions](https://github.com/piyush-gambhir/codeforces-contests-and-problem-solutions)
-- [codechef-contests-and-problem-solutions](https://github.com/piyush-gambhir/codechef-contests-and-problem-solutions)
-- [coding-ninjas-studio-contests-challenges-and-problem-solutions](https://github.com/piyush-gambhir/coding-ninjas-studio-contests-challenges-and-problem-solutions)
-- [competitive-programming-practice](https://github.com/piyush-gambhir/competitive-programming-practice)
-- [cses-problem-set-solutions](https://github.com/piyush-gambhir/cses-problem-set-solutions)
-- [google-competitive-programming-contests](https://github.com/piyush-gambhir/google-competitive-programming-contests)
-- [dsa-practice](https://github.com/piyush-gambhir/dsa-practice)
-- [ncu-hacks-1.0](https://github.com/piyush-gambhir/ncu-hacks-1.0)
-
-</details>
-
-## Current interests
-
-Conversational AI · agentic systems · browser automation · observability · search infrastructure · developer tooling · distributed applications
-
----
-
-For writing, project demos, and longer technical notes, visit [piyushgambhir.com](https://www.piyushgambhir.com).
+Current interests: agentic systems, voice AI, observability, browser automation,
+search infrastructure, and tools that make production systems easier to operate.
