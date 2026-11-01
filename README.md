@@ -3,6 +3,10 @@
 <h1>Piyush Gambhir</h1>
 
 <p>
+  <strong>Building production voice AI agents @ Spyne · LiveKit Agents contributor · open-sourcing the tools I build</strong>
+</p>
+
+<p>
   <a href="https://www.piyushgambhir.com">website</a> ·
   <a href="https://www.linkedin.com/in/gambhirpiyush/">linkedin</a> ·
   <a href="https://x.com/piyushgambhir_">x</a> ·
@@ -28,6 +32,26 @@ Merged into [LiveKit Agents](https://github.com/livekit/agents), the framework a
 <tr>
 <td width="50%" valign="top">
 
+### [telephony-voice-simulator ↗](https://github.com/piyush-gambhir/telephony-voice-simulator)
+
+Local-first platform for testing answering machines, IVRs, PBX routing, carrier behavior, recordings, and automated grading.
+
+<sub>Voice infrastructure · Testing</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [the-noir-game ↗](https://github.com/piyush-gambhir/the-noir-game)
+
+Voice-only noir detective game powered by LiveKit, Deepgram, NVIDIA NIM, and ElevenLabs.
+
+<sub>Voice AI · Interactive simulation</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [reckon ↗](https://github.com/piyush-gambhir/reckon)
 
 Read-only workspace for coding agents to investigate production systems across observability, CI/CD, cloud, Kubernetes, queues, caches, and databases.
@@ -37,22 +61,22 @@ Read-only workspace for coding agents to investigate production systems across o
 </td>
 <td width="50%" valign="top">
 
-### [telephony-voice-simulator ↗](https://github.com/piyush-gambhir/telephony-voice-simulator)
+### [seance ↗](https://github.com/piyush-gambhir/seance)
 
-Local-first platform for testing answering machines, IVRs, PBX routing, carrier behavior, recordings, and automated grading.
+Webcam parlor game powered by D-ID expressive avatars and ElevenLabs Agents.
 
-<sub>Voice infrastructure · Testing</sub>
+<sub>Interactive AI · Avatars & Voice</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [pdf-everything ↗](https://github.com/piyush-gambhir/pdf-everything)
+### [codex-pr-review ↗](https://github.com/piyush-gambhir/codex-pr-review)
 
-Open-source PDF console, versioned REST API, and worker stack for document processing and browser-based rendering.
+On-demand PR reviews from Codex's native reviewer on OpenAI models, via OpenAI API or Amazon Bedrock.
 
-<sub>Document tooling · APIs</sub>
+<sub>Developer tooling · AI code review</sub>
 
 </td>
 <td width="50%" valign="top">
