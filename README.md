@@ -90,3 +90,14 @@ Web console for managing, exploring, and monitoring Typesense search infrastruct
 </td>
 </tr>
 </table>
+
+## Open source
+
+Merged into [LiveKit Agents](https://github.com/livekit/agents), the framework a lot of production voice AI agents run on:
+
+| Change | Python | Node |
+|---|---|---|
+| Forward Twilio CallToken during warm transfers | [#7309](https://github.com/livekit/agents/pull/7309) | [#2540](https://github.com/livekit/agents-js/pull/2540) |
+| `service_tier` on the Responses API LLM | [#5346](https://github.com/livekit/agents/pull/5346) | [#1206](https://github.com/livekit/agents-js/pull/1206) |
+| `service_tier` in CompletionUsage | [#5341](https://github.com/livekit/agents/pull/5341) | [#1205](https://github.com/livekit/agents-js/pull/1205) |
+| `max_output_tokens` on the Responses API LLM | [#5449](https://github.com/livekit/agents/pull/5449) | [#1252](https://github.com/livekit/agents-js/pull/1252) |
