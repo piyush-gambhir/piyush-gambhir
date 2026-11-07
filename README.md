@@ -26,6 +26,13 @@ Merged into [LiveKit Agents](https://github.com/livekit/agents), the framework a
 | `service_tier` in CompletionUsage | [#5341](https://github.com/livekit/agents/pull/5341) | [#1205](https://github.com/livekit/agents-js/pull/1205) |
 | `max_output_tokens` on the Responses API LLM | [#5449](https://github.com/livekit/agents/pull/5449) | [#1252](https://github.com/livekit/agents-js/pull/1252) |
 
+In review:
+
+| Change | Python | Node |
+|---|---|---|
+| Preserve caller ID on Twilio Elastic SIP Trunking warm transfers (example) | [#8323](https://github.com/livekit/agents/pull/8323) | [#2922](https://github.com/livekit/agents-js/pull/2922) |
+| Preserve caller ID on Telnyx warm transfers (docs) | [#7310](https://github.com/livekit/agents/pull/7310) | [#2511](https://github.com/livekit/agents-js/pull/2511) |
+
 ## Selected work
 
 <table>
@@ -87,6 +94,79 @@ Web console for managing, exploring, and monitoring Typesense search infrastruct
 
 <sub>Search infrastructure · Dashboard</sub>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [domain-scout ↗](https://github.com/piyush-gambhir/domain-scout)
+
+Domain availability, registry evidence, and pricing for coding agents: a Go CLI and MCP server over a local engine, with an optional web UI.
+
+<sub>Agent tooling · Domains</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [document-ocr ↗](https://github.com/piyush-gambhir/document-ocr)
+
+Local-first OCR for passports and Indian KYC documents, with MRZ validation and Python and TypeScript libraries.
+
+<sub>Document AI · OCR</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [image-everything ↗](https://github.com/piyush-gambhir/image-everything)
+
+Self-hostable image toolkit: 57 tools in one web console and a versioned REST API on a Sharp/libvips worker.
+
+<sub>Image processing · Self-hosted</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [pdf-everything ↗](https://github.com/piyush-gambhir/pdf-everything)
+
+PDF console and REST API with 19 operations: merge, split, watermark, forms, text extraction, and HTML or Markdown to PDF.
+
+<sub>Document processing · Self-hosted</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [design-inspector ↗](https://github.com/piyush-gambhir/design-inspector)
+
+Chrome extension that reads a site's design as you hover: typography, colors, spacing, assets, and stack.
+
+<sub>Browser extension · Design</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [perch ↗](https://github.com/piyush-gambhir/perch)
+
+Local-first new-tab dashboard that groups open tabs by site, with stash and restore, undo close, and a command palette.
+
+<sub>Browser extension · Productivity</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [safeshare ↗](https://github.com/piyush-gambhir/safeshare)
+
+Peer-to-peer file transfer over WebRTC with end-to-end encryption: the key travels in the link and never reaches the server.
+
+<sub>Privacy · WebRTC</sub>
+
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
